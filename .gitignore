@@ -1,0 +1,33 @@
+# Ignore environment variables
+.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.envrc
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Render build/output artifacts (if any)
+build/
+dist/
+*.log
+
+# OS swap/backup files
+*.swp
+*.bak
+*~
+
+# Python egg info
+*.egg-info/
+.eggs/
